@@ -1,0 +1,38 @@
+body{
+    margin: 5px 0 5% 10%;
+    background-color: #ECE5C7;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 15px; 
+}
+hr{
+width: 5%;
+border-style: none;
+border-top-style:dotted;
+border-color: #354259;
+border-width: 10px;
+position: absolute;
+left: 15%;
+}
+h1{
+    color: #354259;
+}
+h2{
+    color: #354259;
+}
+h3{
+    color: #354259;
+}
+.tabelradius{
+    border-radius: 30px;
+}
+textarea{
+    border-radius: 10px;
+}
+
+hr:hover{
+    width: 5%;
+border-style: none;
+border-top-style:dotted;
+border-color: #1d4a97;
+border-width: 10px;
+}
